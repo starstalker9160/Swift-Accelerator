@@ -1,3 +1,5 @@
 import UIKit
 
-print("Hello world")
+var name = "Abyaz"
+
+print("Hello from \(name)!")
