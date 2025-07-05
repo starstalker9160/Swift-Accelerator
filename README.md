@@ -1,7 +1,7 @@
 # Swift Accelerator Programme
 
 
-This repo contains project files created during the [Swift Accelerator](https://swiftaccelerator.com/) course!
+This repo contains project files created during the Swift Accelerator course by [Sandook Al Watan](https://sandooqalwatan.ae/)
 Currenty a wip...
 
 ## Contents
@@ -11,7 +11,7 @@ Currenty a wip...
 
 ## Technologies Used
 
-- Swift 5+
+- Swift 6
 - Xcode
 - SwiftUI / UIKit
 - Git & GitHub
