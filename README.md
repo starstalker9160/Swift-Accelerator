@@ -1,4 +1,4 @@
-# Swift Accelerator Programme
+# Swift Accelerator Course
 
 
 This repo contains project files created during the Swift Accelerator course by [Sandooq Al Watan](https://sandooqalwatan.ae/)  
