@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     
-    var x = 13
-    var y = 5
+    var x: Int = 13
+    var y: Int = 5
     
     var body: some View {
         VStack {
