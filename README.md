@@ -1,12 +1,12 @@
 # Swift Accelerator Programme
 
 
-This repo contains project files created during the Swift Accelerator course by [Sandook Al Watan](https://sandooqalwatan.ae/)
+This repo contains project files created during the Swift Accelerator course by [Sandooq Al Watan](https://sandooqalwatan.ae/)
 Currenty a wip...
 
 ## Contents
 
-- [Playground](rEee - Playground.playground)
+- [Playground](https://github.com/starstalker9160/Swift-Accelerator/tree/main/rEee%20-%20Playground.playground)
 - iOS App Project
 
 ## Technologies Used
