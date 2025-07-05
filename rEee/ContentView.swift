@@ -8,10 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    let name = "Abyaz"
+    var emoji = "🎒"
+    
     var body: some View {
         VStack {
-            Text("Hello from Abyaz")
-        }
+            Text("Hiiii 👋")
+            Text("Welcome to my ") +
+            Text("awesome").italic().bold().foregroundStyle(.blue) +
+            Text(" app")
+            Text(emoji).font(.system(size: 60)).textSelection(.disabled)
+        }.textSelection(.enabled)
         .padding()
     }
 }
