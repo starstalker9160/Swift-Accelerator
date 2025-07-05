@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     
-    let name = "Abyaz"
-    var emoji = "🎒"
+    let name: String = "Abyaz"
+    var emoji: String = "🎒"
     
     var body: some View {
         VStack {
