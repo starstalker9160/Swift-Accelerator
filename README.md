@@ -7,7 +7,8 @@ Currenty a wip...
 ## Contents
 
 - [Playground](https://github.com/starstalker9160/Swift-Accelerator/tree/main/rEee%20-%20Playground.playground)
-- iOS App Project
+- [Teaser App](./Teaser App/)
+- [calculator](./calculator)
 
 ## Technologies Used
 
