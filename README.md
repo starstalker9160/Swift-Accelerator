@@ -8,77 +8,51 @@ Currenty a wip...
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr>
-        <th>Bridging Programme</th>
-        <th>Unit 2</th>
+        <th colspan="2">Bridging Programme</th>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Teaser%20App/" rel="noopener noreferrer" target="_blank">Teaser App</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.3">[release]</a>
-        </td>
+        <td><a href="./Teaser%20App/" rel="noopener noreferrer" target="_blank">Teaser App</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.3" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./rEee%20-%20Playground.playground/"  rel="noopener noreferrer" target="_blank">Playground</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.2">[release]</a>
-        </td>
+        <td><a href="./rEee%20-%20Playground.playground/" rel="noopener noreferrer" target="_blank">Playground</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.2" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./calculator%20-%20Playground.playground/" rel="noopener noreferrer" target="_blank">calculator Playground</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.4(a)">[release]</a>
-        </td>
+        <td><a href="./calculator%20-%20Playground.playground/" rel="noopener noreferrer" target="_blank">calculator Playground</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.4(a)" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./calculator" rel="noopener noreferrer" target="_blank">calculator</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.4(b)">[release]</a>
-        </td>
+        <td><a href="./calculator" rel="noopener noreferrer" target="_blank">calculator</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.4(b)" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Hello%20App" rel="noopener noreferrer" target="_blank">Hello App</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.6(a)">[release]</a>
-        </td>
+        <td><a href="./Hello%20App" rel="noopener noreferrer" target="_blank">Hello App</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.6(a)" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Light%20App" rel="noopener noreferrer" target="_blank">Light App</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.6(b)">[release]</a>
-        </td>
+        <td><a href="./Light%20App" rel="noopener noreferrer" target="_blank">Light App</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.6(b)" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
     <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Fruits" rel="noopener noreferrer" target="_blank">Fruits App</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.7">[release]</a>
-        </td>
+        <td><a href="./Fruits" rel="noopener noreferrer" target="_blank">Fruits App</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.7" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
-        <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./SwiftUI1" rel="noopener noreferrer" target="_blank">SwiftUI1</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.8">[release]</a>
-        </td>
+    <tr>
+        <td><a href="./SwiftUI1" rel="noopener noreferrer" target="_blank">SwiftUI1</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.8" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
-        </tr>
-        <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Calculator_" rel="noopener noreferrer" target="_blank">Calculator_</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.9">[release]</a>
-        </td>
+    <tr>
+        <td><a href="./Calculator_" rel="noopener noreferrer" target="_blank">Calculator_</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.9" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
+    <tr>
+        <td><a href="./Speeding%20Calculator" rel="noopener noreferrer" target="_blank">Speeding Calculator</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.10" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
-        <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Speeding%20Calculator" rel="noopener noreferrer" target="_blank">Speeding Calculator</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.10">[release]</a>
-        </td>
-    </tr>
-    </tr>
-        <tr>
-        <td style="display: flex; justify-content: space-between; align-items: center;">
-            <a href="./Final%20Project" rel="noopener noreferrer" target="_blank">Final Project</a>
-            <a style="margin-left: auto;" href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.11">[release]</a>
-        </td>
+    <tr>
+        <td><a href="./Final%20Project" rel="noopener noreferrer" target="_blank">Final Project</a></td>
+        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.11" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
 </table>
 
