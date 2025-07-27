@@ -1,22 +1,30 @@
-# Swift Accelerator Course
+# Swift Accelerator Course - Unit 1 - Bridging Programme
 
+This branch contains project files created during the bridging programme of the Swift Accelerator Course!
 
-This repo contains project files created during the Swift Accelerator course by [Sandooq Al Watan](https://sandooqalwatan.ae/)  
-Currenty a wip...
 
 ## Contents
 
-<table border="1" cellpadding="8" cellspacing="0">
+<table border="1" cellpadding="15" cellspacing="0">
     <tr>
-        <th colspan="2">Bridging Programme</th>
+        <th>Folder Path&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Release Link(s)</th>
     </tr>
     <tr>
         <td><a href="./Teaser%20App/" rel="noopener noreferrer" target="_blank">Teaser App</a></td>
-        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.3" target="_blank" rel="noopener noreferrer">[release]</a></td>
+        <td>
+            <a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.1" target="_blank" rel="noopener noreferrer">[release 1]</a>
+            <br>
+            <a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.3" target="_blank" rel="noopener noreferrer">[release 2]</a>
+        </td>
     </tr>
     <tr>
         <td><a href="./rEee%20-%20Playground.playground/" rel="noopener noreferrer" target="_blank">Playground</a></td>
-        <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.2" target="_blank" rel="noopener noreferrer">[release]</a></td>
+        <td>
+            <a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.2" target="_blank" rel="noopener noreferrer">[release 1]</a>
+            <br>
+            <a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.5" target="_blank" rel="noopener noreferrer">[release 2]</a>
+        </td>
     </tr>
     <tr>
         <td><a href="./calculator%20-%20Playground.playground/" rel="noopener noreferrer" target="_blank">calculator Playground</a></td>
@@ -55,11 +63,3 @@ Currenty a wip...
         <td><a href="https://github.com/starstalker9160/Swift-Accelerator/releases/tag/B.11" target="_blank" rel="noopener noreferrer">[release]</a></td>
     </tr>
 </table>
-
-
-## Technologies Used
-
-- Swift 6
-- Xcode
-- SwiftUI / UIKit
-- Git & GitHub
