@@ -8,14 +8,21 @@
 import SwiftUI
 
 struct ContentView: View {
+    let c = 40.0
+    let f = 40.0
+    
+    var cToF: Double { c * 9/5 + 32 }
+    var fToC: Double { (f - 32) * 5/9 }
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Temperature")
+                .bold()
+                .font(.title)
+            Text(" ")
+            Text("\(String(format: "%.2f", c))℃ - \(String(format: "%.1f", cToF))℉")
+            Text("\(String(format: "%.2f", f))℉ - \(String(format: "%.1f", fToC))℃")
         }
-        .padding()
     }
 }
 
